@@ -24,5 +24,5 @@ app.get('/vines', function(req, res) {
 
 var port = process.env.PORT || 8000;
 app.listen(port, function() {
-  console.log('dovineshots listening on port ' + port);
+  console.log('nemovines listening on port ' + port);
 });

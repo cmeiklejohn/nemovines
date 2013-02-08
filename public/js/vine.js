@@ -1,4 +1,4 @@
-function dovineshots() {
+function vines() {
   d3.json('/vines', function(data) {
     var vines = d3.select('.vines.cf').selectAll('.vine')
         .data(data)

@@ -1,23 +1,13 @@
 {
-  "name": "dovineshots",
+  "name": "nemovines",
   "version": "0.0.1",
-  "description": "Booze, Beer, Wheatgrass",
+  "description": "STORM OF THE CENTURY",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "",
   "keywords": [
-    "Booze",
-    "Beer",
-    "Wheatgrass",
-    "Vine",
-    "Gif",
-    "Video",
-    "Fun",
-    "Taste",
-    "Hyphy",
-    "Bolth",
     "Libs"
   ],
   "author": "Andrew J. Stone, Chris Meiklejohn, Reid Draper, Simon Hojberg, Spiros Eliopoulos",
